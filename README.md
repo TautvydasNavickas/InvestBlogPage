@@ -1,7 +1,7 @@
 # Invest Page Blog
 
-Open program in Intellij IDEA
-Write docker-compose up -d in terminal
+# Open program in Intellij IDEA
+# Write docker-compose up -d in terminal
 If some docker container was on before then write docker compose down and repeat command in line number 4 again
 Connect your database to container by using default settings or change it in application.properties
 Start program
